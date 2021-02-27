@@ -1,1 +1,1 @@
-# funny_zsh script
+# funny zsh script
